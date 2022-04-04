@@ -1,0 +1,8 @@
+Created by Güngör Sağdıç on 4.04.2022
+
+# Seçilen ürün sepete eklendi.
+* "1" saniye kadar bekle
+* Xpath "//*[@class='androidx.recyclerview.widget.RecyclerView'][3]" li elementi bul ve tıkla
+* "1" saniye kadar bekle
+* Id "com.ozdilek.ozdilekteyim:id/relLayAddCartBtn" li elementi bul ve tıkla
+* "1" saniye kadar bekle

@@ -1,0 +1,8 @@
+Created by Güngör Sağdıç on 4.04.2022
+
+# Kullanıcı adı kısmına "Güngör" şifre kısmına "123" girildi.
+* "1" saniye kadar bekle
+* Id "com.ozdilek.ozdilekteyim:id/etEposta" li elementi bul ve "Güngör" değerini gir
+* Id "com.ozdilek.ozdilekteyim:id/etPassword" li elementi bul ve "123" değerini gir
+* "1" saniye kadar bekle
+

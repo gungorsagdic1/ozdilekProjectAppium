@@ -1,0 +1,14 @@
+Created by Güngör Sağdıç on 4.04.2022
+
+# Kategoriler sekmesine girildi.
+* Id "com.ozdilek.ozdilekteyim:id/nav_categories" li elementi bul ve tıkla
+* "1" saniye kadar bekle
+
+# Kadın seçeneğine tıklandı.
+* Xpath "(//*[@class='android.widget.TextView'])[5]" li elementi bul ve tıkla
+* "1" saniye kadar bekle
+
+# Pantolon seçeneğine tıklandı.
+* Xpath "//*[@resource-id='com.ozdilek.ozdilekteyim:id/relLayCategoriesItem'][14]" li elementi bul ve tıkla
+* "1" saniye kadar bekle
+

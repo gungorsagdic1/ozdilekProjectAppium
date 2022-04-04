@@ -1,0 +1,36 @@
+Created by Güngör Sağdıç on 3.04.2022
+
+This is a concept file with following syntax for each concept.
+# Özdilekteyim uygulaması açıldı.
+* "1" saniye kadar bekle
+* id "com.ozdilek.ozdilekteyim:id/textView" li elementi bul ve "Mağazadan Alışveriş" alanını kontrol et
+* "3" saniye kadar bekle
+
+# Alışverişe başla butonuna tıklandı.
+* Id "com.ozdilek.ozdilekteyim:id/tv_startShoppingStore" li elementi bul ve tıkla
+* "1" saniye kadar bekle
+
+# Sayfa Doğrulandı.
+* id "com.ozdilek.ozdilekteyim:id/largeLabel" li elementi bul ve "Anasayfa" alanını kontrol et
+* "1" saniye kadar bekle
+
+# Geri butonuna iki kez tıklandı.
+* Id "com.ozdilek.ozdilekteyim:id/ivBack" li elementi bul ve tıkla
+* "1" saniye kadar bekle
+* Id "com.ozdilek.ozdilekteyim:id/ivBack" li elementi bul ve tıkla
+* "1" saniye kadar bekle
+
+#Swipe işlemi yapıldı.
+* Sayfayı aşağı doğru kaydır
+* "1" saniye kadar bekle
+* Sayfayı aşağı doğru kaydır
+
+# Sayfa Doğrulandı.
+* xpath "(//*[@class='android.widget.TextView'])[4]" li elementi bul ve "Kadın" alanını kontrol et
+* "1" saniye kadar bekle
+
+# Sayfa doğrulandı.
+* Id "com.ozdilek.ozdilekteyim:id/imgFav" li elementi bul
+* "1" saniye kadar bekle
+* Id "com.ozdilek.ozdilekteyim:id/imgAddFav" li elementi bul ve tıkla
+* "2" saniye kadar bekle
